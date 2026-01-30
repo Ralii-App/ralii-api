@@ -208,7 +208,7 @@ Please read `CONTRIBUTING.md` before submitting:
 ## 🔗 Related Repositories
 
 - **Ralii Android App**  
-  👉 https://github.com/<your-org-or-username>/ralii-android
+  👉 https://github.com/Ralii-App/ralii-android
 
 ---
 
